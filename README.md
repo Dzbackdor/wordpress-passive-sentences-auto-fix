@@ -17,7 +17,7 @@ module & install:
 
 💻 test on windows 11
 
-![Screenshot_4](https://github.com/user-attachments/assets/87c74547-3201-465c-8f4c-86b9b1f36c32)
+![Screenshot_5](https://github.com/user-attachments/assets/f398bc11-eeec-4d78-a804-85537489a3af)
 ![Screenshot_1](https://github.com/user-attachments/assets/4ac4fc69-2e5c-43ff-b36f-9c89f9996d43)
 ![Screenshot_3](https://github.com/user-attachments/assets/8be0b82c-e939-48fc-908f-e333f7e37881)
 
